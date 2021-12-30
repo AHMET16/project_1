@@ -19,9 +19,9 @@ Microsoft needs insight into how to invest their resources. While Microsoft is a
 
 ## Data 
  
- [IMDB] (https://www.imdb.com/)
- [TMDB]  (https://www.themoviedb.org/)
- [Rotten Tomatoes] (https://www.rottentomatoes.com/)
+ [IMDB](https://www.imdb.com/)
+ [TMDB](https://www.themoviedb.org/)
+ [Rotten Tomatoes](https://www.rottentomatoes.com/)
  
 
  
