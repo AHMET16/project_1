@@ -1,7 +1,7 @@
 # project_1
 # project_1
 
-Markup : ![picture alt](https://www.google.com/search?q=gulen+ve+uzulen+yuz+tiyatroda&rlz=1C5CHFA_enUS941US941&sxsrf=AOaemvIL4ghxKcfdyADj842eqdlm9SvOag:1640819629996&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjjhL65kYr1AhWCdd8KHbH5BXoQ_AUoAXoECAEQAw&biw=976&bih=907&dpr=2#imgrc=hCAznynNMgetdM "Title is optional")
+![](https://www.google.com/search?q=gulen+ve+uzulen+yuz+tiyatroda&rlz=1C5CHFA_enUS941US941&sxsrf=AOaemvIL4ghxKcfdyADj842eqdlm9SvOag:1640819629996&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjjhL65kYr1AhWCdd8KHbH5BXoQ_AUoAXoECAEQAw&biw=976&bih=907&dpr=2#imgrc=hCAznynNMgetdM "Title is optional")
 
 # Microsoft Movie Analysis 
 
