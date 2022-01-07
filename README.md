@@ -9,12 +9,11 @@
 
 ### Overview 
 
-This project analyzes movie data pertaining to Microsoft's entry into film making. This is a brand new film studio with significant resources, but little experience with film making. Analysis of box office numbers and film critic reviews does reveal some trends as to why some films tend to perfrom better than others. Microsoft can use this data to help guide their decision making as they begin to produce feature films.
-
+This project represents a preliminary study of the entry into the microsoft film industry. The company, which is very new in this sector, made front studies by making use of the large database containing the data of movies such as IMDB, TMDB, ROTTEN TOMATOES. We decided to examine the director, genre and movie revenues. We determined which film genres had a more successful effect on the directors' revenues. Using this data, Microsoft can decide which movies it would be right to start with in its new project.
 
 ### Business Problem
 
-Microsoft needs insight into how to invest their resources. While Microsoft is a giant in other industries, they have no prior experience producting films. Microsoft can increase the likelihood that their early films will be successful by examining box office and film critic review data from previous movies. In doing this, Microsoft can gain a clearer understanding of what types of films tend to generate more profit, and which film professionals tend to make successful products.
+Microsoft is the world leader in its field, but the film industry is also very new in terms of know-how, the company should decide how much budget it has outside of this project and decide on the film it will shoot. The results of the data and analyzes I have collected show the following. Genre and revenue data of the directors have determined the genre that provides the least risk for companies that have just started in the film industry, it seems that drama is the genre that gives the highest rating in the world and the film industry also wins the most awards. It would be more accurate to start the Microsoft drama movie field as well.
 
 ## Data 
  
