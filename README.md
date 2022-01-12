@@ -37,7 +37,7 @@ The data is collected from Box Office Mojo, IMDB, Rotten Tomatoes, and TheMovieD
 
 Questions to consider:
 
-###### Questions 2 
+###### Questions 3 
 
 How did you prepare the data?
 
@@ -45,13 +45,13 @@ Here are the datasets that I used for analysis:
 
 IMDB-Movie-Data
 
-###### Questions 3 Were there variables you dropped?
+###### Questions 4 Were there variables you dropped?
 
 data.dropna(axis=0)
 
 Questions to consider:
 
-###### Question 2 Were there variables you dropped?
+###### Question 5 Were there variables you dropped?
 
 I dropped the following columns from the data:
 
@@ -60,7 +60,7 @@ Questions to consider:
     
     -firstly i got the top 1000 movies data from imdb
     -I dropped rows with missing data and duplicate.
-###### Question 3 When you consider the problem of the workplace, which data did you decide to examine ?
+###### Question 6 When you consider the problem of the workplace, which data did you decide to examine ?
 
 
 -Genre
@@ -73,22 +73,22 @@ Questions to consider:
 # Data Modeling
 
 Questions to consider:
-###### Question 4 How did you analyze or model the data?
+###### Question 7 How did you analyze or model the data?
 
 I listed the different types of movies I identified the first 1000 genre the movies
 
 Secondly, I wanted to find out whom Microsoft should work with for the best profit. 
 
-###### Question 5 Which directors, writers or actors are deriving the most profitable movies and which of them have the best ratings?
+###### Question 8 Which directors, writers or actors are deriving the most profitable movies and which of them have the best ratings?
 
-###### Question 6 how did you iterate on your initial approach to make it better?
+###### Question 9 how did you iterate on your initial approach to make it better?
 
 i used lambda function for Genre, I determined which genre are preferred
 
 I described the genres, and determined which films the directors had grossed over.
 
 
-###### Question 7 Why are these choices appropriate given the data and the business problem?
+###### Question 10 Why are these choices appropriate given the data and the business problem?
 
 I think deciding the genres of the movie and whom to work with based on the profit and ratings is a good step for a first attempt at creating a new movie studio. This will give an general sense of the indsutry.
 
@@ -97,11 +97,11 @@ I think deciding the genres of the movie and whom to work with based on the prof
 
 Questions to consider
 
-###### Question 8 How do you interpret the results?
+###### Question 11 How do you interpret the results?
 
 we determined which tours were preferred and which directors represented these tours.
 Considering the budget to be allocated to the microsoft film project, which genre and film should be preferred, more comfortable choices will be made as a result of these analyzes.
-###### Question 9 How confident are you that your results would generalize beyond the data you have?
+###### Question 12 How confident are you that your results would generalize beyond the data you have?
 
 imdb, the most well-known web page of the film industry, here gives us the signals of what kind of film and with which director we should work with in the future.
 
@@ -159,7 +159,7 @@ If our budget is small and we have little time for the project, we should prefer
 
 
 
-###### Question 10 What are some reasons why your analysis might not fully solve the business problem?
+###### Question 13 What are some reasons why your analysis might not fully solve the business problem?
 
 Global problems(epidemics, earthquakes, wars, etc.) may be the main reason, these problems affect all the work done and negatively affect your project, if microsoft is going to enter the film industry, it should take into account global problems and keep risk analysis in the foreground, the best genre, director, and a strong budget may not make you successful.
 
